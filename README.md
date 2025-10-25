@@ -39,7 +39,7 @@
 <br><br>
 
 <div align="center">
-  <img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FSoulBreathe&s=40&c=9f4bff&bg=00000000&no=5&ff=linebeam&tb=Visitors&ta=" />
+  <p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=SoulBreathe&abbreviated=true&style=flat-square&color=755b25" /></p> 
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=9f4bff&section=footer"/>
