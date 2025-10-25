@@ -39,7 +39,7 @@
 <br><br>
 
 <div align="center">
-  <p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=SoulBreathe&abbreviated=true&style=flat-square&color=755b25" /></p> 
+  <p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=SoulBreathe&abbreviated=true&style=flat-square&color=9f4bff" /></p> 
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=9f4bff&section=footer"/>
