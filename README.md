@@ -1,4 +1,11 @@
-## Hi there 👋
+
+![3D Profile](./profile-3d-contrib/profile-night-rainbow.svg)
+
+<div align="center">
+<a href="https://skillicons.dev"   >
+  <img src="https://skillicons.dev/icons?i=arch,linux,c,cs,dotnet,obsidian,visualstudio" />
+</a>
+  </div>
 
 <!--
 **SoulBreathe/SoulBreathe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
